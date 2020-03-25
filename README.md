@@ -9,6 +9,6 @@ Haklarında Yasal İşlem Başlatılmaktadır.
 <p>
 
 </p>
-`Authorize` : ```Valeh & Natalies```
+`Authorize` : `Valeh & Natalies`
 
 // Mit Licence
